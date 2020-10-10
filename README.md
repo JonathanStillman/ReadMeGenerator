@@ -5,6 +5,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 # Example
 ![Git](School.gif)
+
 [Video Link] https://drive.google.com/file/d/1YoXiFp0a4X8_AWaGo6JnCx1f4JGVtFRL/view
 
 # Code Used
